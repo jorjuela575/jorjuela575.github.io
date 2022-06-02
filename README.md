@@ -1,4 +1,4 @@
-# Pacman-Multiplication
+# Web Porfolio
 This website allows you to create as many Pacman as you want and let you move them randomly faster and faster by pressing the bottom start game.
 
 ## 🛠 Skills
