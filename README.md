@@ -1,5 +1,6 @@
 # Web Porfolio
-This website allows you to create as many Pacman as you want and let you move them randomly faster and faster by pressing the bottom start game.
+This is my first web portfolio, where I am exhibiting my skills with CSS, HTML and JavaScript. 
+You will be able to see my own style and organization, plus the clear understanding I have of the conecction that CSS and HTML have. 
 
 ## 🛠 Skills
 
